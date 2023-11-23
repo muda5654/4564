@@ -8,7 +8,7 @@ from discord.utils import get
 bot = commands.Bot(command_prefix='.', intents=discord.Intents.all())
 bot.remove_command("help")
 
-TOKEN = 'OTY0MTgyMTA2NjA1NDk4MzY4.G4NN8o.1H_er1fYcvQ7_wNX8XMV8DdNfof2wZtpSw4lzc'
+TOKEN = 'MTE3MDM4NjgzNDg0OTgxMjU5MQ.GrUZ_V.sp8Ux3fiU-wEbT27A_C_-KsX8F_-POypXnBpqo'
 
 
 @bot.event
